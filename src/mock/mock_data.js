@@ -76,6 +76,13 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "https://external-content.duckduckgo.com/ip3/cursor.sh.ico"
+        },
+        {
+          "id": "site-1752660784994",
+          "name": "Grok",
+          "url": "https://grok.com/",
+          "description": "马斯克宇宙最强AI",
+          "icon": "https://external-content.duckduckgo.com/ip3/grok.com.ico"
         }
       ]
     },
